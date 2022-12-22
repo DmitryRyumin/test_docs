@@ -14,7 +14,7 @@ for warn in [UserWarning, FutureWarning]: warnings.filterwarnings('ignore', cate
 
 from dataclasses import dataclass # Класс данных
 
-from colorama import init  # Цветной текст терминала
+from colorama import init # Цветной текст терминала
 
 # Персональные
 from test_docs_2022.modules.core.messages import Messages # Сообщения

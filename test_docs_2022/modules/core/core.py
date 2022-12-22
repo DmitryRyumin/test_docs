@@ -23,7 +23,6 @@ from datetime import datetime       # Работа со временем
 from prettytable import PrettyTable # Отображение таблиц в терминале
 
 # Персональные
-import test_docs_2022                                     # Библиотека в целом
 from test_docs_2022.modules.core.settings import Settings # Глобальный файл настроек
 
 # ######################################################################################################################
