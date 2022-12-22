@@ -36,7 +36,7 @@ class Mock(MagicMock):
     def __getattr__(cls, name): return MagicMock()
 
 MOCK_MODULES = [
-    'colorama', 'prettytable', 'numpy' 'pandas'
+    'colorama', 'prettytable', 'numpy', 'pandas'
 ]
 sys.modules.update((mod_name, Mock()) for mod_name in MOCK_MODULES)
 
