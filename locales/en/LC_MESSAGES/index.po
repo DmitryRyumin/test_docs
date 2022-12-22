@@ -1,0 +1,43 @@
+# English translation.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# This file is distributed under the same license as the openav package.
+# Dmitry Ryumin <dl_03.03.1991@mail.ru>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  1.0\n"
+"Report-Msgid-Bugs-To: dl_03.03.1991@mail.ru\n"
+"POT-Creation-Date: 2022-12-22 18:24+0300\n"
+"PO-Revision-Date: 2022-12-22 11:33+0300\n"
+"Last-Translator: Dmitry Ryumin <dl_03.03.1991@mail.ru>, Dmitry Ryumin "
+"<dl_03.03.1991@mail.ru>\n"
+"Language-Team: English <dl_03.03.1991@mail.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/index.rst:12 be1a9fc461bc4d309724537d870d2cc7
+msgid "Содержание:"
+msgstr ""
+
+#: ../../source/index.rst:-1 b397bf12dff341da8832edf8f4771815
+msgid "Библиотека для чего-то там ..."
+msgstr "Library for something there ..."
+
+#: ../../source/index.rst:-1 64b965a91fd6488d8855a69ede03c4a2
+msgid "TestDocs, Documentation"
+msgstr ""
+
+#: ../../source/index.rst:6 3f8e02c13aff48b5add971e6afbd6949
+msgid "Документация библиотеки - ``TestDocs``"
+msgstr "Documentation libraries - ``TestDocs``"
+
+#: ../../source/index.rst:8 ff4f5b267db44a23b34bed69932bfe0f
+msgid ""
+"`OpenAV <https://github.com/DmitryRyumin/test_docs>`_ - библиотека для "
+"чего-то там ..."
+msgstr ""
+"`OpenAV <https://github.com/DmitryRyumin/test_docs>`_ is a library for "
+"something out there ..."
+

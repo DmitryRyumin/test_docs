@@ -1,0 +1,159 @@
+# Russian translation.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# This file is distributed under the same license as the openav package.
+# Dmitry Ryumin <dl_03.03.1991@mail.ru>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  1.0\n"
+"Report-Msgid-Bugs-To: dl_03.03.1991@mail.ru\n"
+"POT-Creation-Date: 2022-12-22 18:24+0300\n"
+"PO-Revision-Date: 2022-12-22 11:33+0300\n"
+"Last-Translator: Dmitry Ryumin <dl_03.03.1991@mail.ru>, Dmitry Ryumin "
+"<dl_03.03.1991@mail.ru>\n"
+"Language-Team: Russian <dl_03.03.1991@mail.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/modules/core/language.rst:2 08276b9ed1384e739924900f1724f361
+msgid "Определение языка"
+msgstr ""
+
+#: 11bba8a2bbf64c2aa72d4f14544663a9 of
+#: test_docs_2022.modules.core.language.Language:1
+msgid "Базовые классы: :py:class:`object`"
+msgstr ""
+
+#: ed0e59dcddf849db9c7be88a5fe22c93 of
+#: test_docs_2022.modules.core.language.Language:1
+msgid "Класс для интернационализации (I18N) и локализации (L10N)"
+msgstr ""
+
+#: 3e715d1db46d49a18d0855889ed3f440 640a84961ff7455e93203eeb26ef48d8
+#: dbf1538ec3fb41a78aa1d21716b7ca25 of
+#: test_docs_2022.modules.core.language.Language
+#: test_docs_2022.modules.core.language.Language.__set_locale
+#: test_docs_2022.modules.core.language.Language.lang
+msgid "Параметры"
+msgstr ""
+
+#: ../../../docstring 1af41164a9cd46afb11e25af08138a01
+#: 6c46ae0b7ed84a01ac028c70d024bf1d 94f72c7085c64bf7acbd58377cdf13bd
+#: b9f9f6d0d96b4d8892a56b7c7cdddcd8 of
+#: test_docs_2022.modules.core.language.Language:3
+#: test_docs_2022.modules.core.language.Language.__lang:1
+#: test_docs_2022.modules.core.language.Language.__set_locale:6
+#: test_docs_2022.modules.core.language.Language.lang:8
+msgid "Язык"
+msgstr ""
+
+#: 76e2d9e07488400d8d7a997716bb918a 9281a395d8da4914add1256367766332 of
+#: test_docs_2022.modules.core.language.Language.__get_languages:1
+#: test_docs_2022.modules.core.language.Language.locales:1
+msgid "Получение поддерживаемых языков"
+msgstr ""
+
+#: 050d17bd5f694d02bf5790b2c8110fe5 0fcc9c8751a34e70b6f8fe33a3335aab
+#: dc545ff67d3947ceaab5622e4105bf12 of
+#: test_docs_2022.modules.core.language.Language.__get_languages:4
+#: test_docs_2022.modules.core.language.Language.__get_locales:4
+#: test_docs_2022.modules.core.language.Language.__set_locale:4
+msgid "private (приватный метод)"
+msgstr ""
+
+#: 1708a1a87ea24624bd390dabdba4322b 291d895ab30845029a1a9653b3836127
+#: 2c7f15422fa64da6bbc3e8d7b37aec99 7e60654592b040b1a47da23322567ffd
+#: eb199448367247429b80d3a4f1e20ed0 edc2fb3bc4de4eaabd4578da4b5275ea of
+#: test_docs_2022.modules.core.language.Language.__get_languages
+#: test_docs_2022.modules.core.language.Language.__get_locales
+#: test_docs_2022.modules.core.language.Language.__set_locale
+#: test_docs_2022.modules.core.language.Language.lang
+#: test_docs_2022.modules.core.language.Language.locales
+#: test_docs_2022.modules.core.language.Language.path_to_locales
+msgid "Результат"
+msgstr ""
+
+#: 832a4a61e634447699958966d5b47b0c c1abed18d4194bbfbabf49594211d3d8 of
+#: test_docs_2022.modules.core.language.Language.__get_languages:6
+#: test_docs_2022.modules.core.language.Language.locales:3
+msgid "Список поддерживаемых языков"
+msgstr ""
+
+#: 1693d698115c4fc483bc66d2d6d8538a 40fbd0ebf6f54c45bafc05ad635bb31e
+#: 759116cde8874909a68087320266548a 830920730b984aa99939c8481eff0746
+#: b2fab6e58db6472cb4f93b12a35a2b6d e3e351936c5449f3aa88c33873b92f59 of
+#: test_docs_2022.modules.core.language.Language.__get_languages
+#: test_docs_2022.modules.core.language.Language.__get_locales
+#: test_docs_2022.modules.core.language.Language.__set_locale
+#: test_docs_2022.modules.core.language.Language.lang
+#: test_docs_2022.modules.core.language.Language.locales
+#: test_docs_2022.modules.core.language.Language.path_to_locales
+msgid "Тип результата"
+msgstr ""
+
+#: c51b036098464e73974a8aa8e93afa2c of
+#: test_docs_2022.modules.core.language.Language.__get_locales:1
+msgid "Получение языковых пакетов"
+msgstr ""
+
+#: 7aae6469182b4b8db71b1c1ecaf57aa1 of
+#: test_docs_2022.modules.core.language.Language.__get_locales:6
+msgid "Список словарей с языковыми пакетами"
+msgstr ""
+
+#: ../../../docstring 31e1bcb36aa94d8b9d7eb1bbfbbe2600 of
+#: test_docs_2022.modules.core.language.Language.__lang:4
+msgid "private (приватный аргумент)"
+msgstr ""
+
+#: fa458455f7814570883bf66f76cf5cbf of
+#: test_docs_2022.modules.core.language.Language.__set_locale:1
+msgid "Установка языка"
+msgstr ""
+
+#: 2519f4f59f7b45e88a6553f4fea8722a of
+#: test_docs_2022.modules.core.language.Language.__set_locale:9
+msgid ""
+"MethodType перевода строк на один из поддерживаемых языков если метод "
+"запущен через конструктор"
+msgstr ""
+
+#: 3a2d7435f5534cb98202d597000880da of
+#: test_docs_2022.modules.core.language.Language.lang:1
+msgid "Получение/установка текущего языка"
+msgstr ""
+
+#: 7e4ab827ffe24c84954443f23526bce6 of
+#: test_docs_2022.modules.core.language.Language.lang:3
+msgid ""
+"Язык, доступные варианты:  * ``\"ru\"`` - Русский язык (``по умолчанию``)"
+" * ``\"en\"`` - Английский язык"
+msgstr ""
+
+#: 8900b04598e04ed7b073ab64a310c6f8 of
+#: test_docs_2022.modules.core.language.Language.lang:3
+msgid "Язык, доступные варианты:"
+msgstr ""
+
+#: adc9ab2b52a341cda17af36810740131 of
+#: test_docs_2022.modules.core.language.Language.lang:5
+msgid "``\"ru\"`` - Русский язык (``по умолчанию``)"
+msgstr ""
+
+#: 0d0a4619dfd542db81012c833270e71e of
+#: test_docs_2022.modules.core.language.Language.lang:6
+msgid "``\"en\"`` - Английский язык"
+msgstr ""
+
+#: 8059025aed4242628f91301a86285cb8 of
+#: test_docs_2022.modules.core.language.Language.path_to_locales:1
+msgid "Получение директории с языковыми пакетами"
+msgstr ""
+
+#: 80f079e33af1447e9ad6973ff9f3adf1 of
+#: test_docs_2022.modules.core.language.Language.path_to_locales:3
+msgid "Директория с языковыми пакетами"
+msgstr ""
+

@@ -1,0 +1,113 @@
+# Russian translation.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# This file is distributed under the same license as the openav package.
+# Dmitry Ryumin <dl_03.03.1991@mail.ru>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  1.0\n"
+"Report-Msgid-Bugs-To: dl_03.03.1991@mail.ru\n"
+"POT-Creation-Date: 2022-12-22 18:24+0300\n"
+"PO-Revision-Date: 2022-12-22 11:33+0300\n"
+"Last-Translator: Dmitry Ryumin <dl_03.03.1991@mail.ru>, Dmitry Ryumin "
+"<dl_03.03.1991@mail.ru>\n"
+"Language-Team: Russian <dl_03.03.1991@mail.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/modules/core/settings.rst:2 2e59348185184a8597afdce23c7b7fa3
+msgid "Настройки"
+msgstr ""
+
+#: a8dd99169763448ebc46c2a5e443f100 of
+#: test_docs_2022.modules.core.settings.Settings:1
+msgid "Базовые классы: :py:class:`~test_docs_2022.modules.core.messages.Messages`"
+msgstr ""
+
+#: 051b99a011b14293804bcdc206abce36 of
+#: test_docs_2022.modules.core.settings.Settings:1
+msgid "Класс для настроек"
+msgstr ""
+
+#: 323b7bd7159644f19a9463ffeca877e8 of
+#: test_docs_2022.modules.core.settings.Settings
+msgid "Параметры"
+msgstr ""
+
+#: ../../../docstring 438ed0de0c514259a74386b681955d5a of
+#: test_docs_2022.modules.core.settings.Settings.__lang:1
+msgid "Язык"
+msgstr ""
+
+#: ../../../docstring 1c9781cfbf9343308cc568905d38bde3 of
+#: test_docs_2022.modules.core.settings.Settings.__lang:4
+msgid "private (приватный аргумент)"
+msgstr ""
+
+#: e2509375d0254a1e815b79f193084730 of
+#: test_docs_2022.modules.core.settings.Settings.color_blue:1
+msgid "Получение синего цвета текста в терминале"
+msgstr ""
+
+#: 200aed80b09f4734994fa08407020fa1 4f0be81b3b0c4da19d9954eb53e8dd0e
+#: 5f494f74e0ad4f96976b92881e32e6a7 6eb35a1428674c909d99465ee31181dc
+#: 7bef02ba96db4bd69f5dcd63c1bf39d6 of
+#: test_docs_2022.modules.core.settings.Settings.color_blue
+#: test_docs_2022.modules.core.settings.Settings.color_green
+#: test_docs_2022.modules.core.settings.Settings.color_red
+#: test_docs_2022.modules.core.settings.Settings.text_bold
+#: test_docs_2022.modules.core.settings.Settings.text_end
+msgid "Результат"
+msgstr ""
+
+#: 40f9d3da568e4f30a99a1cc393066796 6ea5e22c92e3486ba57269ed7406ca44
+#: bf3882b3b3b34c4c8134628aa25bbac3 of
+#: test_docs_2022.modules.core.settings.Settings.color_blue:3
+#: test_docs_2022.modules.core.settings.Settings.color_green:3
+#: test_docs_2022.modules.core.settings.Settings.color_red:3
+msgid "Цвет текста в терминале"
+msgstr ""
+
+#: 367331bf27f94cb09ad5aa759e024aec 422db9b647134bc6a7ca26056b1d0999
+#: 558d8544484a42e099b229bcfffda148 bb03536cdaec4bb0893a94a4de4ffa46
+#: d75b0fe324f141c290fd479f052f1317 of
+#: test_docs_2022.modules.core.settings.Settings.color_blue
+#: test_docs_2022.modules.core.settings.Settings.color_green
+#: test_docs_2022.modules.core.settings.Settings.color_red
+#: test_docs_2022.modules.core.settings.Settings.text_bold
+#: test_docs_2022.modules.core.settings.Settings.text_end
+msgid "Тип результата"
+msgstr ""
+
+#: c68c6b81e4af4d90812a54afab709a54 of
+#: test_docs_2022.modules.core.settings.Settings.color_green:1
+msgid "Получение зеленого цвета текста в терминале"
+msgstr ""
+
+#: 8dbd96c0f8964acaba00e07803edbd1b of
+#: test_docs_2022.modules.core.settings.Settings.color_red:1
+msgid "Получение красного цвета текста в терминале"
+msgstr ""
+
+#: 9be721daba9f48c189e5771a8dbed061 of
+#: test_docs_2022.modules.core.settings.Settings.text_bold:1
+msgid "Получение жирного начертания текста в терминале"
+msgstr ""
+
+#: c5426fbe27fc4acf98c97625ea23b4aa of
+#: test_docs_2022.modules.core.settings.Settings.text_bold:3
+msgid "Жирное начертание текста в терминале"
+msgstr ""
+
+#: d10ef847c7a14292af29b7e05a787882 of
+#: test_docs_2022.modules.core.settings.Settings.text_end:1
+msgid "Получение сброса оформления текста в терминале"
+msgstr ""
+
+#: 9faff81779a34b388cbfbf44d5be8cdf of
+#: test_docs_2022.modules.core.settings.Settings.text_end:3
+msgid "Сброс оформления текста в терминале"
+msgstr ""
+

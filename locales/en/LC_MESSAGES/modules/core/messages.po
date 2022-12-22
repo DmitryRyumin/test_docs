@@ -1,0 +1,48 @@
+# English translation.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# This file is distributed under the same license as the openav package.
+# Dmitry Ryumin <dl_03.03.1991@mail.ru>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  1.0\n"
+"Report-Msgid-Bugs-To: dl_03.03.1991@mail.ru\n"
+"POT-Creation-Date: 2022-12-22 18:24+0300\n"
+"PO-Revision-Date: 2022-12-22 11:33+0300\n"
+"Last-Translator: Dmitry Ryumin <dl_03.03.1991@mail.ru>, Dmitry Ryumin "
+"<dl_03.03.1991@mail.ru>\n"
+"Language-Team: English <dl_03.03.1991@mail.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/modules/core/messages.rst:2 224e138e29f64da9ac1226cbb6af74d2
+msgid "Сообщения"
+msgstr ""
+
+#: bc574d6d3ffa40feba307b1be0dc3eda of
+#: test_docs_2022.modules.core.messages.Messages:1
+msgid "Базовые классы: :py:class:`~test_docs_2022.modules.core.language.Language`"
+msgstr ""
+
+#: 3b289a0a101c42d28ccc2e06263c0cad of
+#: test_docs_2022.modules.core.messages.Messages:1
+msgid "Класс для сообщений"
+msgstr ""
+
+#: 51e116cc2b3d4ebabc0726e980f602e8 of
+#: test_docs_2022.modules.core.messages.Messages
+msgid "Параметры"
+msgstr ""
+
+#: ../../../docstring e7ae4d8cfa934560a414351506778e69 of
+#: test_docs_2022.modules.core.messages.Messages.__lang:1
+msgid "Язык"
+msgstr ""
+
+#: ../../../docstring f07276b3c730478285ca1db5b9b5207b of
+#: test_docs_2022.modules.core.messages.Messages.__lang:4
+msgid "private (приватный аргумент)"
+msgstr ""
+
